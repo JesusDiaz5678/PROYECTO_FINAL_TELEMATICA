@@ -1,2 +1,4 @@
 dash
 pandas
+requests
+zipfile36
