@@ -2,8 +2,8 @@ from flask import Flask, jsonify
 
 app = Flask(__name__)
 
-names = ['Chucho', 'Benju', 'Mafe']
-passwords = ['1234', 'abcd', 'qwerty']
+names = ['Chucho', 'Benju', 'Mafe', 'Ferney']
+passwords = ['1234', 'abcd', 'qwerty', 'el_mejor']
 
 
 @app.route('/users')
